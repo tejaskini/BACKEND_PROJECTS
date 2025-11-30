@@ -1,0 +1,20 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "Learnig backend with making projects",
+  "homepage": "https://github.com/tejaskini/BACKEND_PROJECTS#readme",
+  "bugs": {
+    "url": "https://github.com/tejaskini/BACKEND_PROJECTS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejaskini/BACKEND_PROJECTS.git"
+  },
+  "license": "ISC",
+  "author": "Tejas Kini",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
